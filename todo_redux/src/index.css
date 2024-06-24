@@ -1,0 +1,23 @@
+ul {
+  list-style: none;
+}
+
+li {
+  background-color: #eee;
+  margin: 8px 0;
+  padding: 12px;
+  text-align: left;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+li span {
+  cursor: pointer;
+}
+
+li span.line-trough {
+  text-decoration: line-through;
+  color: #888;
+}
