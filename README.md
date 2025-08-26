@@ -1,1 +1,1 @@
-Projeto usando react
+Projeto usando redux
